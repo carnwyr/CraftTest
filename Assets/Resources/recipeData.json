@@ -1,0 +1,83 @@
+{
+  "Recipes": [
+    {
+      "Id": "Magic_ink",
+      "Ingredients": [
+        {
+          "Id": "Diamond_Dust",
+          "Amount": 5
+        },
+        {
+          "Id": "Liquid_Silver",
+          "Amount": 23
+        }
+      ],
+      "Price": 1000,
+      "Name": "Magic Ink"
+    },
+    {
+      "Id": "Spring_wine02",
+      "Ingredients": [
+        {
+          "Id": "Patoka",
+          "Amount": 10
+        },
+        {
+          "Id": "Spring_wine01",
+          "Amount": 5
+        }
+      ],
+      "Price": 5000,
+      "Name": "Pink Potion"
+    },
+    {
+      "Id": "Spring_wine01",
+      "Ingredients": [
+        {
+          "Id": "Diamond_Dust",
+          "Amount": 10
+        },
+        {
+          "Id": "Star_Vanilla",
+          "Amount": 1
+        }
+      ],
+      "Price": 500,
+      "Name": "Clear Potion"
+    },
+    {
+      "Id": "Portal_stone",
+      "Ingredients": [
+        {
+          "Id": "Workpiece_Portal_stone",
+          "Amount": 1
+        },
+        {
+          "Id": "Charged_ore",
+          "Amount": 5
+        },
+        {
+          "Id": "Diamond_Dust",
+          "Amount": 3
+        }
+      ],
+      "Price": 10000,
+      "Name": "Portal Stone"
+    },
+    {
+      "Id": "Magic_ink",
+      "Ingredients": [
+        {
+          "Id": "Pigment",
+          "Amount": 5
+        },
+        {
+          "Id": "Liquid_Silver",
+          "Amount": 10
+        }
+      ],
+      "Price": 2000,
+      "Name": "Magic Ink"
+    }
+  ]
+}
